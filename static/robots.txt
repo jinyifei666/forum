@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /topics/
+Disallow: /action/
+Disallow: /settings/
+Disallow: /notification
+Disallow: /accounts/
+Disallow: /admin/
